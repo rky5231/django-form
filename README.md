@@ -1,7 +1,5 @@
 # Django Form
 
-![Django Form](https://via.placeholder.com/600x400.png?text=Sample+Screenshot)
-
 This Django Form project is designed to demonstrate the usage of forms in Django web applications. It includes examples of creating and handling forms using Django's built-in form handling capabilities.
 
 ## Features
